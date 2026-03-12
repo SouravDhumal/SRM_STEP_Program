@@ -1,20 +1,34 @@
-🌱 Development Branch – STEP Java Use Cases
+👨‍💻 About Me
 
-📌 About This Branch
+Hello! I am Sourav Dhumal, a Computer Science student at SRM Institute of Science and Technology, KTR.
+This repository contains my assignments, practice programs, and projects completed as part of the STEP (Student Talent Enhancement Program).
 
-This Development branch contains the implementation of Use Cases (UC 1 – UC 8) developed as part of the STEP Java learning program at SRM Institute of Science and Technology.
-These programs demonstrate different Java programming concepts and help in building a strong understanding of object-oriented programming and problem solving.
+📚 About STEP
 
+The STEP Program is designed to strengthen students' programming skills, logical thinking, and problem-solving abilities.
+Through this program, students learn core programming concepts and build a strong technical foundation for their engineering journey.
 
-🎯 Purpose
+💻 What You Will Find in This Repository
 
-The purpose of this branch is to:
-🧠 Practice Java programming concepts
-📚 Implement STEP assignments step by step
-🛠 Improve coding and logical thinking skills
-📈 Track development progress across multiple use cases
+This repository includes:
+📝 Java programming assignments
+🧠 Practice problems and solutions
+📂 Mini exercises from STEP classes
 
-💻 Technologies Used
+📖 Topics Covered
+
+☕ Java Programming
+🧮 Problem Solving in Java
+
+🎯 Purpose of This Repository
+
+The goal of this repository is to:
+📈 Track my learning progress in the STEP program
+💡 Improve my Java programming skills
+🧠 Practice logical thinking and coding regularly
+📂 Maintain a structured record of my work
+
+🛠️ Tools & Technologies
 
 ☕ Java
 🧑‍💻 VS Code
@@ -27,4 +41,4 @@ Computer Science Student
 SRM Institute of Science and Technology – KTR
 
 
-⭐ This branch is dedicated to the development and implementation of STEP Java use cases.
+⭐ This repository documents my learning journey through the STEP program.
